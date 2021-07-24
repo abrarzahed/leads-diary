@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "version": "1",
+  "name": "Leads Diary",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "diary.png"
+  },
+  "permissions": ["tabs"]
+}
